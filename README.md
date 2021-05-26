@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hello there! 👋
 
 <!--
 **cristiano-arch/cristiano-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on freelance projects
+- 🌱 I’m currently learning Spring Boot
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/cristiano-jr-6a6519213)
