@@ -73,3 +73,6 @@ Here are some ideas to get you started:
     <img align="left" alt="rails" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" />
     <img align="left" alt="c#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   </a><br>
+  
+  ![Snake animation](https://github.com/cristiano-arch/cristiano-arch/blob/output/github-contribution-grid-snake.svg)
+  
