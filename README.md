@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## Hello there! I'm Cristiano Júnior :wave:
   
 - 🔭 I’m currently working on [my personal study project](https://github.com/cristiano-arch/projetovg)
-- 🌱 I’m currently learning Spring Boot
+- 🌱 I’m currently learning Spring Boot and Angular
 - 👯 I’m looking to contribute more to Open Source Projects
 - 🥅 Goals: Never let my To Do list empty on [my Trello's study board](https://trello.com/b/djEUI5pF/estudos) 
 - ⚡ Fun fact: I love to read and Star Wars
@@ -55,6 +55,7 @@ Here are some ideas to get you started:
 
 - #### :hugs: Recently studied:
   <a href="#">
+    <img align="left" alt="angular" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
     <img align="left" alt="vscode" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
     <img align="left" alt="spring" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
     <img align="left" alt="typescript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
