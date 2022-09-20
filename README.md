@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristiano-arch&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristiano-arch&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on [my personal study project](https://github.com/cristiano-arch/projetovg)
 - 👯 I’m looking to contribute more to Open Source Projects
 -->
 
 ## Hello there! I'm Cristiano Júnior :wave:
-  
-- 🌱 I’m currently learning Spring Boot, HTML5 and CSS3
+
+- 🔭 I’m currently working on [a study project](https://github.com/izaiasfilho/ZsiBankLoan)
+- 🌱 I’m currently learning Angular, Spring Boot, HTML5 and CSS3
 - 🥅 Goals: Never let my To Do list empty on [my Trello's study board](https://trello.com/b/djEUI5pF/estudos) 
 - ⚡ Fun fact: I love to read and Star Wars
   
