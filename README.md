@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristiano-arch&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👯 I’m looking to contribute more to Open Source Projects
+
+<a href="#">
+    <img align="right" alt="RHCPicon" src="https://media.discordapp.net/attachments/889188091678560269/889269445615304704/RHCPicon.gif" width="40" height="40" />
+  </a><br>
+
 -->
 
 ## Hello there! I'm Cristiano Júnior :wave:
@@ -49,9 +54,12 @@ Here are some ideas to get you started:
     <img align="left" alt="github" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
     <img align="left" alt="gitlab" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
     <img align="left" alt="trello" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
-    <img align="right" alt="RHCPicon" src="https://media.discordapp.net/attachments/889188091678560269/889269445615304704/RHCPicon.gif">
   </a><br>
   
+  <a href="#">
+    <img align="right" height="250" alt="GroguIcon" src="https://media.discordapp.net/attachments/889188091678560269/1021592843573276764/make-an-8-bit-profile-picture-or-gif-pixel-art.gif" />
+  </a>
+    
 ##
 
 - #### :hugs: Recently studied:
