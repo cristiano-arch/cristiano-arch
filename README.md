@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristiano-arch&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristiano-arch&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+- 🔭 I’m currently working on [a study project](https://github.com/izaiasfilho/ZsiBankLoan)
 - 👯 I’m looking to contribute more to Open Source Projects
 
 <a href="#">
@@ -25,7 +26,6 @@ Here are some ideas to get you started:
 
 ## Hello there! I'm Cristiano Júnior :wave:
 
-- 🔭 I’m currently working on [a study project](https://github.com/izaiasfilho/ZsiBankLoan)
 - 🌱 I’m currently learning Angular, Spring Boot, HTML5 and CSS3
 - 🥅 Goals: Never let my To Do list empty on [my Trello's study board](https://trello.com/b/djEUI5pF/estudos) 
 - ⚡ Fun fact: I love to read and Star Wars
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristiano-jr-6a6519213)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/?authuser=cristianoandre96@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kzB4hUTHAJ)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cristianoandre96/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev.crisjr/)
 [![GitLab](	https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/cristianoandre96)
 
 ### Languages and Tools:
